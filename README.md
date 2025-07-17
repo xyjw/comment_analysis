@@ -1,8 +1,8 @@
-# comment_analysis
+# Comment Analysis
 Using AI big models to analyze user comments, achieve tag classification and sentiment judgment
 
 # Overview
-<a href="#installation">Install</a>
+<a href="#install">Install</a>
 <br>
 <a href="#usage">Usage</a>
 <br>
